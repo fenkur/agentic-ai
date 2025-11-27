@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+/dist/
+*.exe
+*.o
+
+# Dependencies
+/node_modules/
+/vendor/
+
+# Log and temporary files
+*.log
+*.tmp
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Sensitive information
+.env
+
+venv
+__pycache__/
